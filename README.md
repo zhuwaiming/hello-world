@@ -2,5 +2,5 @@
 My first repository
 
 
-// Here we should show our source code of two-phase genetic annealing algorithms
+Here we should show our source code of two-phase genetic annealing algorithms
 
